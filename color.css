@@ -1,0 +1,33 @@
+ol{
+    margin-left: -40px;
+    margin-top: -20px;
+    list-style-position: inside;
+    
+}
+
+li{
+    text-decoration-color: green;
+    color: green;
+    text-emphasis-color: green;
+}
+
+li.note[value="2"] {
+    
+    color: black;
+}
+
+.note{
+    font-size: 40px;;
+}
+
+#id-selector-demo{
+    color: pink;
+}
+
+li[value="4"]{
+    color: white;
+}
+
+li[value="5"]{
+    color: gold;
+}
